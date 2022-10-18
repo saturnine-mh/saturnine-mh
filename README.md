@@ -3,16 +3,18 @@
 
 <p align="left"> <a href="https://twitter.com/zainmuhammadna" target="blank"><img src="https://img.shields.io/twitter/follow/zainmuhammadna?logo=twitter&style=for-the-badge" alt="zainmuhammadna" /></a> </p>
 
+- 🔭 I’m currently working on **a matching card game**
+
 - 🌱 I’m currently learning **node**
 
-- 💬 Ask me about **html,css,js,photography**
+- 💬 Ask me about **html, css, js, photography**
 
 - 📫 How to reach me **zainnasir899@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zainmuhammadna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zainmuhammadna" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad zain nasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad zain nasir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-zain-nasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-zain-nasir" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammad.wifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad.wifi" height="30" width="40" /></a>
 </p>
 
@@ -24,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saturnine-mh&show_icons=true&locale=en" alt="saturnine-mh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saturnine-mh&" alt="saturnine-mh" /></p>
-
