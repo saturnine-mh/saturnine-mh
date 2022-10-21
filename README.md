@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/zainmuhammadna" target="blank"><img src="https://img.shields.io/twitter/follow/zainmuhammadna?logo=twitter&style=for-the-badge" alt="zainmuhammadna" /></a> </p>
 
-- 🔭 I’m currently working on **a matching card game**
+- 🔭 I’m currently working on **learning node.js and express**
 
 - 🌱 I’m currently learning **node**
 
